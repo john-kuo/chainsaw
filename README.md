@@ -27,13 +27,17 @@ Free opensource auto-deploy script for your web application
 - launch the script, it listens at port 888 by default
 
 <p align="centre">
-  <a href="https://warriorcode.xyz">
+  <a href="https://warriorcode.xyz/images/github_hooks.png">
     <img src="https://warriorcode.xyz/images/github_hooks.png" width="1000px" height="250px" alt="Chainsaw logo" />
   </a>
 </p>
 
 - enter the payload url in your Github project settings.  See above image
 
+## Wanna be a contributor?
+
+* More than welcome to make it better.
+* possible improvements, turn this into an NPM package, Python Django port, Ruby On Rails port. etc.
 
 
 
