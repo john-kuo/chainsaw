@@ -21,18 +21,9 @@ Free opensource auto-deploy script for your web application
 
 ### ⏳ Installation
 
-- Clone autodeploy.js to your server
-- update REPO folder field in autodeploy.js to point to your project
-- update relevant commands in autodeploy.js to handle git pull, server restart command
-- launch the script, it listens at port 888 by default
-
-<p align="centre">
-  <a href="https://warriorcode.xyz/images/github_hooks.png">
-    <img src="https://warriorcode.xyz/images/github_hooks.png" width="1000px" height="250px" alt="Chainsaw logo" />
-  </a>
-</p>
-
-- enter the payload url in your Github project settings.  See above image
+We have setup guide for 
+- Github (in construction)
+- [Bitbucket](https://github.com/nathan-kuo/chainsaw/blob/master/bitbucket-setup.md)
 
 ## Wanna be a contributor?
 
