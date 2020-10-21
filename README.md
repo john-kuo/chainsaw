@@ -23,7 +23,7 @@ Free opensource auto-deploy script for your web application
 
 We have setup guide for 
 - Github (in construction)
-- [Bitbucket](https://github.com/nathan-kuo/chainsaw/blob/master/bitbucket-setup.md)
+- [Bitbucket](https://github.com/nathan-kuo/chainsaw/blob/bitbucket_tutorial/bitbucket-setup.md)
 
 ## Wanna be a contributor?
 

@@ -8,19 +8,19 @@
 5. Head to your BitBucket project repository page and click on **Repository settings**
 <p align="right">
   <a href="https://warriorcode.xyz/images/github_hooks.png">
-    <img src="https://warriorcode.xyz/images/opensource/chainsaw/bitbucket_setup_one.png" width="1000px" height="250px" alt="Chainsaw logo" />
+    <img src="https://warriorcode.xyz/images/opensource/chainsaw/bitbucket_setup_one.png" width="1000px" height="450px" alt="Chainsaw logo" />
   </a>
 </p>
 
 6. Go to **Webhooks** and click on **Add webhook**
 <p align="right">
   <a href="https://warriorcode.xyz/images/github_hooks.png">
-    <img src="https://warriorcode.xyz/images/opensource/chainsaw/bitbucket_setup_two.png" width="1000px" height="250px" alt="Chainsaw logo" />
+    <img src="https://warriorcode.xyz/images/opensource/chainsaw/bitbucket_setup_two.png" width="1000px" height="450px" alt="Chainsaw logo" />
   </a>
 </p>
 7. Enter the URL for the webhooks, it should be your_url + port 888
 <p align="right">
   <a href="https://warriorcode.xyz/images/github_hooks.png">
-    <img src="https://warriorcode.xyz/images/opensource/chainsaw/bitbucket_setup_three.png" width="1000px" height="250px" alt="Chainsaw logo" />
+    <img src="https://warriorcode.xyz/images/opensource/chainsaw/bitbucket_setup_three.png" width="1000px" height="450px" alt="Chainsaw logo" />
   </a>
 </p>
